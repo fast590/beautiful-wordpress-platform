@@ -1,0 +1,287 @@
+# Translation of Themes - tecblogger in English (UK)
+# This file is distributed under the same license as the Themes - tecblogger package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 01:00:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - tecblogger\n"
+
+#. Theme Name of the plugin/theme
+msgid "tecblogger"
+msgstr "TecBlogger"
+
+#. Description of the plugin/theme
+msgid "Tec-Blogger is a clean & responsive full featured Personal WordPress Blog Theme."
+msgstr "Tec-Blogger is a clean & responsive full-featured Personal WordPress Blog Theme."
+
+#. translators: %s: Name of current post
+#: template-parts/content.php:32
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: template-parts/content-aside.php:36 template-parts/content-link.php:36
+#: template-parts/content-page.php:19 template-parts/content-quote.php:38
+#: template-parts/content-single.php:24 template-parts/content-video.php:38
+#: template-parts/content.php:39
+msgid "Pages:"
+msgstr "Pages:"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/template-tags.php:181
+msgid "Archives"
+msgstr "Archives"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:179
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:175
+msgid "Archives: %s"
+msgstr "Archives: %s"
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chats"
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statuses"
+
+#: inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links"
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Quotes"
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videos"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Images"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galleries"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Asides"
+
+#: inc/template-tags.php:153
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:153
+msgid "Day: %s"
+msgstr "Day: %s"
+
+#: inc/template-tags.php:151
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:151
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: inc/template-tags.php:149
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:149
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: inc/template-tags.php:147
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#: inc/template-tags.php:145
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:143
+msgid "Category: %s"
+msgstr "Category: %s"
+
+#: inc/template-tags.php:126 template-parts/content-aside.php:64
+#: template-parts/content-link.php:64 template-parts/content-page.php:26
+#: template-parts/content-quote.php:66 template-parts/content-video.php:66
+#: template-parts/content.php:67
+msgid "Edit"
+msgstr "Edit"
+
+#: inc/template-tags.php:122 inc/template-tags.php:229
+msgid "% Comments"
+msgstr "% Comments"
+
+#: inc/template-tags.php:122 inc/template-tags.php:229
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: inc/template-tags.php:116 template-parts/content-aside.php:60
+#: template-parts/content-link.php:60 template-parts/content-quote.php:62
+#: template-parts/content-video.php:62 template-parts/content.php:63
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#: inc/template-tags.php:122 inc/template-tags.php:229
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: inc/template-tags.php:110 template-parts/content-aside.php:50
+#: template-parts/content-link.php:50 template-parts/content-quote.php:52
+#: template-parts/content-video.php:52 template-parts/content.php:53
+msgid "Posted in %1$s"
+msgstr "Posted in %1$s"
+
+#: inc/template-tags.php:91
+msgctxt "post author"
+msgid "by %s"
+msgstr "By %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:108 inc/template-tags.php:114
+#: template-parts/content-aside.php:46 template-parts/content-aside.php:56
+#: template-parts/content-link.php:46 template-parts/content-link.php:56
+#: template-parts/content-quote.php:48 template-parts/content-quote.php:58
+#: template-parts/content-video.php:48 template-parts/content-video.php:58
+#: template-parts/content.php:49 template-parts/content.php:59
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:86
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Posted on %s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Newer posts"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Older posts"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Posts navigation"
+
+#: functions.php:200
+msgid "TecBlogger Admin"
+msgstr "TecBlogger Admin"
+
+#: inc/extras.php:52
+msgid "Page %s"
+msgstr "Page %s"
+
+#: functions.php:101
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:46
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: footer.php:19
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: footer.php:17
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:42 comments.php:63
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: comments.php:41 comments.php:62
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#: comments.php:38 comments.php:59
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#. Author URI of the plugin/theme
+msgid "http://themepoints.com"
+msgstr "http://themepoints.com"
+
+#. Theme URI of the plugin/theme
+msgid "http://themepoints.com/tecblogger"
+msgstr "http://themepoints.com/tecblogger"
+
+#. Author of the plugin/theme
+msgid "themepoints"
+msgstr "themepoints"
